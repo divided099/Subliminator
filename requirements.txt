@@ -1,0 +1,6 @@
+colorama
+io
+pygame
+webbrowser
+platform
+requests
